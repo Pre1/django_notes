@@ -328,15 +328,6 @@ class ListSerializer(serializers.ModelSerializer):
 """ permissions.py """
 
 
-Use these SFTP credentials to upload files with FileZilla/WinSCP/rsync:
-    Host: 68.183.219.172
-    User: django
-    Pass: 8f13e85b4f74c6847d28c01795de1e8f
 
-Django is configured to use Postgres as its database. Use the following
-credentials to manage the database:
-    Database: django
-    User:     django
-    Pass:     1731ccf589fb37ecbabc1da12c117628
     
 
